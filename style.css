@@ -1,0 +1,14 @@
+a:link {
+	color: red;
+	text-align: center;
+}
+
+a:visited {
+	color: green;
+	text-align: center;
+}
+
+a:hover {
+	font-size: 15px;
+	text-align: center;
+}
